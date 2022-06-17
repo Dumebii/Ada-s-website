@@ -1,0 +1,51 @@
+body {
+  background-color: #112B3C;
+  margin-left: 200px;
+  text-align: center;
+}
+h3 {
+  font-size: 70px;
+}
+img{
+  border-radius: 50%;
+  max-width: 50%;
+  height: auto;
+}
+.one {
+  color: white;
+  
+  margin: 0 auto 0 auto;
+}
+.two {
+  color: white;
+}
+.three {
+  color: white;
+  width: 50%;
+}
+.four {
+  color: white;
+  width: 50%;
+}
+.bodyOne {
+  width: 50%;
+  background-color: #FFE59D;
+
+}
+.bodyTwo {
+  background-color: #F66B0E;
+  width: 50%;
+}
+.bodyThree {
+  background-color: #F8CB2E;
+  width: 50%;
+}
+.bodyFour {
+  background-color: black;
+  width: 50%;
+  color: white;
+}
+.textOne {
+  position: relative;
+  left: 30px;
+}
